@@ -1,2 +1,3 @@
 #!/bin/bash
-0	search/16	SCHOOL		School Data
+0	string	SCHOOL		School Data
+!:mime School
