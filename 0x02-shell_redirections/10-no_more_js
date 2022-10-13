@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p | grep -v / | rm *.js
+find -mindepth 1 -type f | rm *.js
